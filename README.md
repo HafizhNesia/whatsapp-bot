@@ -34,7 +34,7 @@
 ```
 
 #### Change `config.json` 
-##### Register in <b>[api-hafizhnesia](https://api-hafizhnesia.hafizhganz.repl.co)</b> to get apiKey then enter to zeksKey in `config.json`
+##### Register in <b>[api-hafizhnesia](https://api-hafizhnesia.hafizhganz.repl.co)</b> to get apiKey then enter to HafizhNesiaKey in `config.json`
 ### Start ✅
 
 ```bash
