@@ -14,15 +14,15 @@
  
 </div>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/justpiple/whatsapp-bot/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hafizhnesia/whatsapp-bot/)
 
-[![Run on Repl.it](https://repl.it/badge/github/justpiple/whatsapp-bot)](https://repl.it/github/justpiple/whatsapp-bot)
+[![Run on Repl.it](https://repl.it/badge/github/hafizhnesia/whatsapp-bot)](https://repl.it/github/hafizhnesia/whatsapp-bot)
 
 
 ### Install ⬇️
 
 ```bash
-> git clone https://github.com/justpiple/whatsapp-bot/
+> git clone https://github.com/hafizhnesia/whatsapp-bot/
 > cd whatsapp-bot
 > npm i
 ```
@@ -34,7 +34,7 @@
 ```
 
 #### Change `config.json` 
-##### Register in <b>[zeks.xyz](https://zeks.xyz)</b> to get apiKey then enter to zeksKey in `config.json`
+##### Register in <b>[api-hafizhnesia](https://api-hafizhnesia.hafizhganz.repl.co)</b> to get apiKey then enter to zeksKey in `config.json`
 ### Start ✅
 
 ```bash
@@ -48,9 +48,8 @@ after start it you need to scan the qr
 #### Session name and options is optional
 ### Contact me
 
-- [TELEGRAM](https://t.me/justpiple)
-- [WHATSAPP](http://wa.me/62813309603730)
-- [GROUP CHAT WHATSAPP](https://chat.whatsapp.com/EV2o7Y4C2XNDT5AAQPZjqt)
+- [TELEGRAM](https://t.me/HafizhNesia)
+- [WHATSAPP](http://wa.me/6285741056111)
 
 
 ## 🙏 Special Thanks to
