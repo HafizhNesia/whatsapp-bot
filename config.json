@@ -1,11 +1,11 @@
 {	
 	"prefix": "multi", 
 	"defaultSessionName": "bot", 
-	"zeksKey": "apikey",
+	"zeksKey": "apivinz",
 	"autoRead": true,
 	"self": false, 
 	"maxLimit": 30,
-	"ownerList": ["628xxxxxx@s.whatsapp.net", "6282xxxxxx@s.whatsapp.net"],
+	"ownerList": ["6285741056111@s.whatsapp.net", "6285741056111@s.whatsapp.net"],
 	"apiUrl": "https://api.zeks.me",
     "imgUrl": "https://api.zeks.me/logo.jpg",
 	"pack": "Sticker",
