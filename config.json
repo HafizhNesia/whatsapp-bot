@@ -1,13 +1,13 @@
 {	
 	"prefix": "multi", 
 	"defaultSessionName": "bot", 
-	"zeksKey": "apivinz",
+	"zeksKey": "apikeylu",
 	"autoRead": true,
 	"self": false, 
 	"maxLimit": 30,
 	"ownerList": ["6285741056111@s.whatsapp.net", "6285741056111@s.whatsapp.net"],
-	"apiUrl": "https://api.zeks.me",
-    "imgUrl": "https://api.zeks.me/logo.jpg",
-	"pack": "Sticker",
-	"author": "BOT"
+	"apiUrl": "https://api-hafizhnesia.hafizhganz.repl.co",
+    "imgUrl": "https://i.ibb.co/NKXRbC6/IMG-20211004-221746.jpg",
+	"pack": "By",
+	"author": "HafizhNesia"
 }
